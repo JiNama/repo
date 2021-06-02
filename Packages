@@ -1,0 +1,15 @@
+Package: com.widget.gmeticker
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JiNama
+Depends: mobilesubstrate
+Filename: ./debs/com.widget.gmeticker.deb
+Size: 215232
+MD5sum: 921c37a7f9d85905ab41b4610a13234e
+SHA1: 14271b7a28eac95f26fc8f93a431e317714d7949
+SHA256: b349ebbe7ba37e18bacea576104bd688fa7c8bd25c7569f2362af5a4b45ccdb2
+Section: Widgets
+Description: GME Stock Ticker for XenHTML
+Author: JiNama
+Name: GME Stock Ticker Widget
+
