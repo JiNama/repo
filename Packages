@@ -5,9 +5,9 @@ Maintainer: JiNama
 Depends: mobilesubstrate
 Filename: ./debs/com.widget.gmeticker.deb
 Size: 215232
-MD5sum: 0912eaeebb67b74bb0f02f226aa982e5
-SHA1: 9ff08b84621fae86d283848b2763bf2082755c1c
-SHA256: 86aa230f659d4adffc0c8bf35830547e5b2a0a84addfc6a57119f9e274c1ef8e
+MD5sum: 17bdf3261168cbc9d0c0dcd7811eb899
+SHA1: 09f2bab9b46f4dd5c29bbec1d73cf4710afcce41
+SHA256: 336089a6a5fae452d302838049b894ba901fab45ad5b320f7577b51ffeac6054
 Section: Widgets
 Description: GME Stock Ticker for XenHTML
 Author: JiNama
