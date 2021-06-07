@@ -1,1 +1,1 @@
-# My Cydia Repo.
+# JiNama's Repo
