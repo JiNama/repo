@@ -4,16 +4,16 @@ Architecture: iphoneos-arm
 Maintainer: JiNama
 Depends: mobilesubstrate
 Filename: ./debs/com.jinama.xenstockticker.deb
-Size: 33748
-MD5sum: 32c3ed6abfd828ccccdd011c01dbd381
-SHA1: 6ba5304d8295573b2c35fd8c79c48c40fc754b8d
-SHA256: 4ae201b097578bf5264d6307f2fde2fab4e71ff162107560056e4c6aa1c23d9d
+Size: 33764
+MD5sum: 9211c8f34abd33c331c354f6fada6f8f
+SHA1: 22bb147a129a4948f6e40064198d4916e07b781f
+SHA256: 7cbe48b842e44705f8ad3fe9c726842442c5ad1f26d83d791ab9d43320ff900c
 Section: Widgets
 Description: Stock Ticker Widget for XenHTML
-  is a universal widget that allows for any stock symbol's price to be displayed.
-  .
-  In future updates, there will be many more customization options inside of XenHTML, but for now, the widget is realively easy to customize by altering the style.css file in the folder that the widget is installed.
-  .
-  Note: the only reason this widget isn't free is because I need to pay for tokens to use IEX's stock API. Thank you for understanding.
+ . A universal widget that allows for any stock symbol's price to be displayed.
+ .
+ In future updates, there will be many more customization options inside of XenHTML, but for now, the widget is realively easy to customize by altering the style.css file in the folder that the widget is installed.
+ .
+ Note: the only reason this widget isn't free is because I need to pay for tokens to use IEX's stock API. Thank you for understanding.
 Author: JiNama <https://github.com/JiNama>
 Name: [LS] Stock Ticker
