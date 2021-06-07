@@ -1,14 +1,14 @@
-Package: com.widget.gmeticker
+Package: com.jinama.xenstockticker
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: JiNama
 Depends: mobilesubstrate
-Filename: ./debs/com.widget.gmeticker.deb
-Size: 215232
-MD5sum: 17bdf3261168cbc9d0c0dcd7811eb899
-SHA1: 09f2bab9b46f4dd5c29bbec1d73cf4710afcce41
-SHA256: 336089a6a5fae452d302838049b894ba901fab45ad5b320f7577b51ffeac6054
+Filename: ./debs/com.jinama.xenstockticker.deb
+Size: 33488
+MD5sum: cba915c70d857dfa62a290d95706e3f1
+SHA1: d5441e3a96b066b5a1089b527a77b0742949c675
+SHA256: 33314c87a7f2927878d6504c1f869ea8c2fc798ab99bc4a209c3e6522d217c3c
 Section: Widgets
-Description: GME Stock Ticker for XenHTML
-Author: JiNama
-Name: GME Stock Ticker Widget
+Description: Stock Ticker Widget for XenHTML
+Author: JiNama <https://github.com/JiNama>
+Name: [LS] Stock Ticker
