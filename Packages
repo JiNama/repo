@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: JiNama
 Depends: mobilesubstrate
 Filename: ./debs/com.jinama.xenstockticker.deb
-Size: 36880
-MD5sum: 2aa14dfd8683449a1517ecbc8ce5ab8e
-SHA1: d3285e6a5076dc11e343bb62bcba2e5ec673a280
-SHA256: d7d80db9de4bc6f4845ed3e0f539705cc9fab178ba8c69870a35c9806d64aa7e
+Size: 36892
+MD5sum: 9eed9aebb6202a1881017c0e96337885
+SHA1: 3263798d0c48fe454086217e0b1a4083e5ec15a0
+SHA256: d41a18bbffa75c706d6694306e4e8245aaf2e568b4517116303bb908dfbd8991
 Section: Widgets
 Description: Stock Ticker Widget for XenHTML
  is a universal widget that allows for any stock symbol's price to be displayed.
@@ -16,3 +16,4 @@ Description: Stock Ticker Widget for XenHTML
 Author: JiNama <https://github.com/JiNama>
 Name: [LS] Stock Ticker
 Icon: file:///var/mobile/Library/Widgets/Universal/[LS] Stock Ticker/icon.png
+Depiction: https://jinama.github.io/repo/depictions/?p=com.jinama.xenstockticker
