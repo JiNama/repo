@@ -1,0 +1,25 @@
+<package>
+	<id>com.jinama.xenstockticker</id>
+	<name>[LS] Stock Ticker</name>
+	<version>1.0.1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>14.6</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Stock Ticker Widget for XenHTML is a universal widget that allows for any stock symbol's price to be displayed. In future updates, there will be many more customization options inside of XenHTML, but for now, the widget is realively easy to customize by altering the style.css file in the folder that the widget is installed. Note: the only reason this widget isn't free is because I need to pay for tokens to use IEX's stock API. Thank you for understanding.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Widget using the symbol $GME</description>
+			<image>example.PNG</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
