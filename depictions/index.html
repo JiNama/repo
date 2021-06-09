@@ -34,5 +34,52 @@
 </head>
 <body>
   
+  <div id="packageInformation">
+
+    <div id="packageHeader" class="container" style="display:block">
+      <div class="jumbotron">
+        <h1 id="packageName">&nbsp;</h1>
+        <p id="packageShortDesc">&nbsp;</p>
+      </div>
+    </div>
+  
+    <div class="container">
+      <div id="compatibilityCheck" class="alert">&nbsp;</div>
+    </div>
+  
+    <div class="container">
+      <h5>DESCRIPTION</h5>
+      <ul id="descriptionList" class="list-group">
+        <li id="screenshotsLink" class="link-item list-group-item">Screenshots</li>
+      </ul>
+    </div>
+  
+    <div class="container">
+      <h5>IN THIS VERSION <span id="versionBadge" class="badge" /></h5>
+      <ul id="changesList" class="list-group">
+        <li id="changelogLink"  class="link-item list-group-item">Full Changelog</li>
+      </ul>
+    </div>
+    <div class="container" id="dependenciesContainer">
+      <h5>DEPENDENCIES</h5>
+      <ul id="dependencyList" class="list-group">
+      </ul>
+    </div>
+  
+    <div class="container" id="externalLinksContainer">
+      <h5>LINKS</h5>
+      <ul id="externalLinksList" class="list-group">
+      </ul>
+    </div>
+  
+  </div>
+  <div id="packageError" style="display:none">
+    <div class="container">
+      <div class="alert alert-danger">
+      <strong>Oh snap!</strong> The package you are trying to view is not hosted on this repository.
+      </div>
+    </div>
+  </div>
+
 </body>
 </html>
