@@ -1,7 +1,7 @@
 <package>
 	<id>com.jinama.xenstockticker</id>
 	<name>[LS] Stock Ticker</name>
-	<version>1.0.1</version>
+	<version>1.0.2</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>14.6</maxiOS>
@@ -18,7 +18,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>Added icon.</change>
 	</changelog>
 	<links></links>
 </package>

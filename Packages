@@ -1,5 +1,5 @@
 Package: com.jinama.xenstockticker
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: JiNama
 Depends: mobilesubstrate
@@ -15,5 +15,5 @@ Description: Stock Ticker Widget for XenHTML
  Note: the only reason this widget isn't free is because I need to pay for tokens to use IEX's stock API. Thank you for understanding.
 Author: JiNama <https://github.com/JiNama>
 Name: [LS] Stock Ticker
-Icon: file:///var/mobile/Library/Widgets/Universal/[LS] Stock Ticker/icon.png
+Icon: Icon: file:///Libary/JiNamaIcons/icon.png
 Depiction: https://jinama.github.io/repo/depictions/?p=com.jinama.xenstockticker
