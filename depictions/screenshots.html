@@ -20,7 +20,6 @@
 	var contentBlocks = getContentBlocks();
 
     $( document ).ready(function() {
-		//return;
 		populateContentBlocks(
 			(bundleid+"/info.xml"),
 			contentBlocks,
@@ -33,7 +32,7 @@
 			}
 		)
 
-    }); // ready
+    }); 
   </script>
 </head>
 <body>
@@ -53,7 +52,7 @@
 	  </div>
 	</div>
 </div>
-<!-- REPO FOOTER -->
+
 <script type="text/javascript">
     var repoContents = 	{
 		"#repoFooterLinks" : 
@@ -71,8 +70,8 @@
 						} 
 						$(a).append($(data).find('name').text());
 						$(element).append(a);
-					}); //each
-				} //render
+					}); 
+				} 
 			}
 	}
     $( document ).ready(function() {
@@ -87,11 +86,8 @@
 				}
 			},
             error: function() {$("#contactInfo").hide()}
-        }); //ajax
-		
-		
-    }); // ready
-
+        }); 
+    }); 
 </script>
 
 <div id="contactInfo">
@@ -101,7 +97,6 @@
 		</ul>
 	</div>
 </div>
-<!-- REPO FOOTER ENDS -->
 
 </body>
 </html>
