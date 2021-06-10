@@ -41,11 +41,14 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
 
 .jumbotron {
     text-align: center;
-    font-size: 2rem !important;
 }
 
 .alert{
     text-align: center !important;
+}
+
+.h1 {
+    font-size: 2rem !important;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -58,6 +61,10 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
         text-align: center !important;
     }
 
+    .h1 {
+        font-size: 2rem !important;
+    }
+
     .card-header {
         background-color: #2f2f2f;
     }
@@ -66,7 +73,6 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
     }
     .jumbotron {
         background-color: #2f2f2f;
-        font-size: 2rem !important;
         text-align: center;
     }
 
