@@ -41,6 +41,7 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
 
 .jumbotron {
     text-align: center;
+    font-size: 2rem !important;
 }
 
 .alert{
@@ -65,6 +66,7 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
     }
     .jumbotron {
         background-color: #2f2f2f;
+        font-size: 2rem !important;
         text-align: center;
     }
 
