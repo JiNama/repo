@@ -43,10 +43,18 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
     text-align: center;
 }
 
+.alert{
+    text-align: center;
+}
+
 @media (prefers-color-scheme: dark) {
     body {
         background-color: #1f1f1f;
         color: white;
+    }
+
+    .alert{
+        text-align: center;
     }
 
     .card-header {
