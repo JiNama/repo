@@ -47,7 +47,7 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
     text-align: center !important;
 }
 
-.h1 {
+h1 {
     font-size: 2rem !important;
 }
 
@@ -61,7 +61,7 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
         text-align: center !important;
     }
 
-    .h1 {
+    h1 {
         font-size: 2rem !important;
     }
 
