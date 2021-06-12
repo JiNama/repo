@@ -1,7 +1,7 @@
 <package>
 	<id>com.jinama.xenstockticker</id>
 	<name>[LS] Stock Ticker</name>
-	<version>1.0.3</version>
+	<version>1.0.4</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>14.6</maxiOS>
@@ -18,7 +18,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Updated depiction.</change>
+		<change>Removed "USD" to allow for other currencies.</change>
 	</changelog>
 	<links></links>
 </package>
