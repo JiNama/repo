@@ -20,7 +20,7 @@ body{
     display: grid;
     align-items: center;
     justify-items: center;
-    padding-bottom: 80px;
+    padding-bottom: 20px;
   }
   
   #Sources{
@@ -30,11 +30,12 @@ body{
     text-align: center;
     background-image: -webkit-linear-gradient(rgb(237, 221, 255), rgb(206, 210, 255));
     border-radius: 60px;
-    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.253);
+    border: 2px solid black;
   }
   
   #Sources>div{
-    padding: 30px 40px 30px 40px;
+    padding: 28px 25px 28px 25px;
   }
   
   #Cydia{
@@ -57,7 +58,7 @@ body{
   
   #jpic{
     width: 50vw;
-    padding-bottom: 100px;
-    padding-top: 100px;
+    padding-bottom: 60px;
+    padding-top: 60px;
   }
 }
